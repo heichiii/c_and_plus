@@ -1,0 +1,20 @@
+CMakeFiles/motor.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: \
+ E:\projects\stm32\c_and_plus\motor\Middlewares\Third_Party\FreeRTOS\Source\croutine.c \
+ E:\projects\stm32\c_and_plus\motor\Middlewares\Third_Party\FreeRTOS\Source\include/FreeRTOS.h \
+ C:\ST\STM32CubeCLT\GNU-tools-for-STM32\bin\../lib/gcc/arm-none-eabi/11.3.1/include/stddef.h \
+ C:\ST\STM32CubeCLT\GNU-tools-for-STM32\bin\../lib/gcc/arm-none-eabi/11.3.1/include/stdint.h \
+ C:\ST\STM32CubeCLT\GNU-tools-for-STM32\bin\../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/include/stdint.h \
+ C:\ST\STM32CubeCLT\GNU-tools-for-STM32\bin\../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/include/machine/_default_types.h \
+ C:\ST\STM32CubeCLT\GNU-tools-for-STM32\bin\../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/include/sys/features.h \
+ C:\ST\STM32CubeCLT\GNU-tools-for-STM32\bin\../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/include/_newlib_version.h \
+ C:\ST\STM32CubeCLT\GNU-tools-for-STM32\bin\../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/include/sys/_intsup.h \
+ C:\ST\STM32CubeCLT\GNU-tools-for-STM32\bin\../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/include/sys/_stdint.h \
+ E:\projects\stm32\c_and_plus\motor\Core\Inc/FreeRTOSConfig.h \
+ E:\projects\stm32\c_and_plus\motor\Middlewares\Third_Party\FreeRTOS\Source\include/projdefs.h \
+ E:\projects\stm32\c_and_plus\motor\Middlewares\Third_Party\FreeRTOS\Source\include/portable.h \
+ E:\projects\stm32\c_and_plus\motor\Middlewares\Third_Party\FreeRTOS\Source\include/deprecated_definitions.h \
+ E:\projects\stm32\c_and_plus\motor\Middlewares\Third_Party\FreeRTOS\Source\portable\GCC\ARM_CM4F/portmacro.h \
+ E:\projects\stm32\c_and_plus\motor\Middlewares\Third_Party\FreeRTOS\Source\include/mpu_wrappers.h \
+ E:\projects\stm32\c_and_plus\motor\Middlewares\Third_Party\FreeRTOS\Source\include/task.h \
+ E:\projects\stm32\c_and_plus\motor\Middlewares\Third_Party\FreeRTOS\Source\include/list.h \
+ E:\projects\stm32\c_and_plus\motor\Middlewares\Third_Party\FreeRTOS\Source\include/croutine.h
